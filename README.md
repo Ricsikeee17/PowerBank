@@ -1,16 +1,16 @@
-\# Custom PowerBank
+# Custom PowerBank
 
 
 
 
 
-This is a custom made powerbank from scratch that will use 18650 batteries from a laptop battery.
+This is a custom made powerbank from scratch that will use 18650 batteries from a laptop battery. I made this because I had some laying 18650 batteries and I need a powerbank for my phone because I doesn't hold the charge through the day. It will have one USB C port to charge itself and your phone.
 
 
 
 
 
-\##PCB
+## PCB
 
 
 
@@ -23,7 +23,7 @@ I made the PCB with KiCAD and here's some screenshot of the schematic and the PC
 
 
 
-\##CAD Model
+## CAD Model
 
 
 
